@@ -32,6 +32,12 @@ npx playwright install chromium
 
 ## 安装
 
+从 npm 安装：
+
+```sh
+dsh plugin --profile web add dsh-playwright-browser
+```
+
 从当前源码目录打包并安装：
 
 ```sh

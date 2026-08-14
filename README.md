@@ -32,6 +32,12 @@ The plugin gives a DSH agent a persistent browser controller, accessibility-orie
 
 ## Install
 
+From npm:
+
+```sh
+dsh plugin --profile web add dsh-playwright-browser
+```
+
 From this checkout:
 
 ```sh

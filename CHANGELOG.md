@@ -4,18 +4,15 @@ All notable changes to this project are documented here. The format follows [Kee
 
 ## [Unreleased]
 
-### Added
-
-- English and Simplified Chinese project documentation.
-- Architecture, testing, release, contribution, security, and governance documentation.
-- CI and manually triggered live-browser workflows.
-
 ## [0.1.3] - 2026-08-14
 
 ### Added
 
 - Snapshot-derived `<role>|<name>` shorthand for semantic targets.
 - Expanded public-site acceptance suite with sanitized JSONL and Markdown evidence.
+- English and Simplified Chinese project documentation.
+- Architecture, testing, release, contribution, security, and governance documentation.
+- CI and manually triggered live-browser workflows.
 
 ### Fixed
 
