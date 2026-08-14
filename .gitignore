@@ -1,0 +1,22 @@
+node_modules/
+lib/
+.dsh-browser/
+.dsh-e2e-home/
+coverage/
+dist/
+*.tgz
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+*.log
+.idea/
+.vscode/
+.local/
+
+# Local research and session-planning notes.
+task_plan.md
+findings.md
+progress.md

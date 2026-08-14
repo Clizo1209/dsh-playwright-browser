@@ -1,0 +1,3 @@
+- insert:
+    - id: playwright-browser
+      name: dsh-playwright-browser

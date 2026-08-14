@@ -1,0 +1,12 @@
+# Example profile override. Copy this row into a DSH profile's cordis.patch.yml.
+- id: playwright-browser
+  config:
+    browser: chromium
+    channel: chrome
+    headless: true
+    viewportWidth: 1440
+    viewportHeight: 900
+    actionTimeoutMs: 15000
+    navigationTimeoutMs: 30000
+    maxSnapshotChars: 40000
+    screenshotDir: .dsh-browser/screenshots
