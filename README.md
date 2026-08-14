@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/branding/readme-banner-dark-1600x600.png">
+    <source media="(prefers-color-scheme: light)" srcset="docs/assets/branding/readme-banner-light-1600x600.png">
+    <img alt="dsh playwright browser — Browser automation for DeepSeek Harness / DeepSeek Harness 浏览器自动化" src="docs/assets/branding/readme-banner-light-1600x600.png" width="100%">
+  </picture>
+</p>
+
 # dsh-playwright-browser
 
 [简体中文](README.zh-CN.md)
